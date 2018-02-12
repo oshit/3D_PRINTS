@@ -1,0 +1,24 @@
+Active Directory Users and Computers (ADUC)
+https://www.microsoft.com/en-us/download/details.aspx?id=28972
+https://www.microsoft.com/en-us/download/details.aspx?id=45520
+https://support.microsoft.com/en-us/help/2693643/remote-server-administration-tools-rsat-for-windows-operating-systems
+
+Remote Desktop Connection Manager 2.7
+https://www.microsoft.com/en-us/download/details.aspx?id=44989
+
+
+MOVEIT Client
+vendmov001prd
+\\cs-msc\public\4950\Tech-OPS-BackOffice\Applications\Moveit Central\MOVEit 8\MOVEit_Install
+WebEx
+Notepad++
+Handleabar - video converion
+
+usb-c adpater
+ID:LT063552
+
+
+Create a shortcut to search Active Directory 
+rundll32 dsquery,OpenQueryWindow
+
+
